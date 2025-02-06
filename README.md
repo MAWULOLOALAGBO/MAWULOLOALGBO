@@ -44,7 +44,7 @@ Un projet d'analyse de données d'accidents de la route avec Power BI.
 
 
 ### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
-Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
+Un projet permettant d'extraire des information sur des données codé au format txt grace au langage de programmation de Python.
 
 - **Compétences développées** :
   - 📥Extraction de données (Python)
