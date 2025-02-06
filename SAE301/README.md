@@ -1,4 +1,4 @@
-# : Etude des données d'accidentologie
+# Etude des données d'accidentologie
 
 ## Contexte
 Analyse des données d'accidents de la route en France Métroplitaine.
