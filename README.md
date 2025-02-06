@@ -19,7 +19,7 @@ Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Ex
 
 **Voir plus** : [Détails du projet](SAE206/README.md)
 
-### [Desciption et prévision d'une serie temporelle](SAE206/README.md)
+### [Desciption et prévision d'une serie temporelle](SAE301/README.md)
 Un projet sur la desciption et prévision de données temporelle avec R et Word.
 
 - **Compétences développées** :
