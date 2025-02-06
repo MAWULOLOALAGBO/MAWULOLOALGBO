@@ -1,4 +1,4 @@
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px;">
+<div style="background-color: #21618c; padding: 20px; border-radius: 10px;">
   
 # Portfolio de Mawulolo Alagbo
 
@@ -67,5 +67,4 @@ Pour toute question ou information complémentaire, vous pouvez me contacter à 
 - 📧 **Email** : [parfaitalagbo18@gmail.com](mailto:parfaitalagbo18@gmail.com)
 - 📞 **Téléphone** : 07 44 59 53 43
 - 📍 **Adresse** : 14 Avenue Victor Hugo, 56000 Vannes
-
 </div>
