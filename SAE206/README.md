@@ -1,4 +1,4 @@
-# SAE 206 : Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot
+# Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot
 
 ## Contexte
 Ce projet porte sur l'analyse des données de suivi des patients à l'EPSM Jean Martin Charcot. L'objectif était de suivre la prise en charge des patients et d'automatiser la création de rapports.
