@@ -1,7 +1,7 @@
-# SAE 301 : Etude des données d'accidentologie
+# : Etude des données d'accidentologie
 
 ## Contexte
-Analyse des données d'accidents de la route.
+Analyse des données d'accidents de la route en France Métroplitaine.
 
 ## Objectifs
 - Nettoyage des données avec **Power BI**.
