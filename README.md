@@ -7,7 +7,7 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 ## Projets :
 
-### [SAE 301 : Etude des données d’accidentologie](SAE301/README.md)
+### [Etude des données d’accidentologie](SAE301/README.md)
 Un projet d'analyse de données d'accidents de la route avec Power BI.
 
 - **Compétences développées** :
@@ -18,7 +18,7 @@ Un projet d'analyse de données d'accidents de la route avec Power BI.
 
 **Voir plus** : [Détails du projet SAE 301](SAE301/README.md)
 
-### [SAE 206 : Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot](SAE206/README.md)
+### [Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot](SAE206/README.md)
 Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
 
 - **Compétences développées** :
@@ -28,7 +28,14 @@ Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Ex
   - 📊 Conception d'un tableau de bord pour le reporting automatisé
   - 📝 Rédaction de rapports et guides d'utilisation d'outils Excel
 
-**Voir plus** : [Détails du projet SAE 206](SAE206/README.md)
+### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
+Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
+
+- **Compétences développées** :
+  - 📥Extraction de données (Python)
+  - 📊 Création de graphique et tableau (Excel)
+
+**Voir plus** : [Détails du projet SAE 206](SAE102/README.md)
 
 ## Compétences générales
 Voici un aperçu des compétences que j'ai acquises au cours de mes projets :
