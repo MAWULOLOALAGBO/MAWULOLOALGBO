@@ -7,17 +7,6 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 ## Projets :
 
-### [Etude des données d’accidentologie](SAE301/README.md)
-Un projet d'analyse de données d'accidents de la route avec Power BI.
-
-- **Compétences développées** :
-  - 🧹 Nettoyage des données avec Power BI
-  - 📊 Définition et calcul des indicateurs avec DAX et Power BI
-  - 📑 Création d'un rapport Power BI interactif
-  - 🎤 Restitution orale du projet
-
-**Voir plus** : [Détails du projet SAE 301](SAE301/README.md)
-
 ### [Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot](SAE206/README.md)
 Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
 
@@ -28,6 +17,32 @@ Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Ex
   - 📊 Conception d'un tableau de bord pour le reporting automatisé
   - 📝 Rédaction de rapports et guides d'utilisation d'outils Excel
 
+**Voir plus** : [Détails du projet](SAE206/README.md)
+
+### [Desciption et prévision d'une serie temporelle](SAE206/README.md)
+Un projet sur la desciption et prévision de données temporelle avec R et Word.
+
+- **Compétences développées** :
+  - 📥 Tri, analyse et exploitation des données RStudio
+  - 📈 Calcul des indicateurs sous RStudio
+  - 📊 Conception de tableau et de graphique
+  - 📝 Réalisation d'une infographie
+
+**Voir plus** : [Détails du projet](SAE302/README.md)
+
+
+### [Etude des données d’accidentologie](SAE301/README.md)
+Un projet d'analyse de données d'accidents de la route avec Power BI.
+
+- **Compétences développées** :
+  - 🧹 Nettoyage des données avec Power BI
+  - 📊 Définition et calcul des indicateurs avec DAX et Power BI
+  - 📑 Création d'un rapport Power BI interactif
+  - 🎤 Restitution orale du projet
+
+**Voir plus** : [Détails du projet](SAE301/README.md)
+
+
 ### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
 Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
 
@@ -35,7 +50,7 @@ Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Ex
   - 📥Extraction de données (Python)
   - 📊 Création de graphique et tableau (Excel)
 
-**Voir plus** : [Détails du projet SAE 206](SAE102/README.md)
+**Voir plus** : [Détails du projet](SAE102/README.md)
 
 ## Compétences générales
 Voici un aperçu des compétences que j'ai acquises au cours de mes projets :
