@@ -70,13 +70,22 @@ Un projet d'analyse de données d'accidents de la route avec Power BI.
 
 **Voir plus** : [Détails du projet](SAE301/README.md)
 
-
-### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
+### [Intégration des données dans un datawarehouse](SAE303/README.md)
 Un projet permettant d'extraire des information sur des données codé au format txt grace au langage de programmation de Python.
 
 - **Compétences développées** :
   - 📥Extraction de données (Python)
   - 📊 Création de graphique et tableau (Excel)
+
+**Voir plus** : [Détails du projet](SAE303/README.md)
+
+
+### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
+Un projet permettant d'extraire des information sur des données codé au format txt grace au langage de programmation de Python.
+
+- **Compétences développées** :
+  - 📥Extraction de données (Talend)
+  - 📊 Traitement des données (Talend Access)
 
 **Voir plus** : [Détails du projet](SAE102/README.md)
 
