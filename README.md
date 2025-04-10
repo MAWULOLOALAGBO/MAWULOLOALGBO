@@ -9,7 +9,7 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 ## Projets :
 
-### [Etude des données d’accidentologie](SAE402/README.md)
+### [Analyse de données de MArketing](SAE402/README.md)
 Un projet d'analyse de données d'accidents de la route avec Power BI.
 
 - **Compétences développées** :
