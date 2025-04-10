@@ -9,8 +9,22 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 ## Projets :
 
+### [Prediction de l'esperance de vie dans chaque pays du monde](SAE401/README.md)
+
+
+- **Compétences développées** :
+  - 🧹 Nettoyage des données avec R
+  - 📊 Analyse de chaque variables
+  - 📊 Creation des Model predictif
+  - 📊 Validation croisé
+  - 📑 Création d'un tableau de bord shiny
+  - 🎤 Restitution orale du projet
+
+**Voir plus** : [Détails du projet](SAE401/README.md)
+
+
 ### [Analyse de données de MArketing](SAE402/README.md)
-Un projet d'analyse de données d'accidents de la route avec Power BI.
+
 
 - **Compétences développées** :
   - 🧹 Nettoyage des données avec R
