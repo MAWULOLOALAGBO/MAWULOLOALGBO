@@ -9,6 +9,18 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 ## Projets :
 
+### [Etude des données d’accidentologie](SAE402/README.md)
+Un projet d'analyse de données d'accidents de la route avec Power BI.
+
+- **Compétences développées** :
+  - 🧹 Nettoyage des données avec R
+  - 📊 Creation de graphique interactif avec ggplot2
+  - 📑 Création d'un tableau de bord shiny
+  - 🎤 Restitution orale du projet
+
+**Voir plus** : [Détails du projet](SAE402/README.md)
+
+
 ### [Etude statistique pour le suivi de la prise en charge des patients à l'EPSM Jean Martin Charcot](SAE206/README.md)
 Analyse des données de suivi des patients à l'EPSM Jean Martin Charcot avec Excel et VBA.
 
