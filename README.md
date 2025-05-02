@@ -13,11 +13,12 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 
 
 - **Compétences développées** :
-  - 🧹 Nettoyage des données avec R
-  - 📊 Analyse de chaque variables
-  - 📊 Creation des Model predictif
-  - 📊 Validation croisé
-  - 📑 Création d'un tableau de bord shiny
+  - 🔎 Recherche de données
+  - 🧹 Nettoyage des données
+  - 📊 Analyse univariée
+  - 📊 Analyse bivarier
+  - 📑 Creation et validation des Model predictif
+  - 📊 Validation 
   - 🎤 Restitution orale du projet
 
 **Voir plus** : [Détails du projet](SAE401/README.md)
@@ -92,7 +93,7 @@ Un projet permettant d'extraire des information sur des données codé au format
 ## Compétences générales
 Voici un aperçu des compétences que j'ai acquises au cours de mes projets :
 - 🧑‍💻 **Analyse de données**
-- 📊 **Visualisation avec Power BI**
+- 📊 **Visualisation avec Power BI et R Shiny**
 - 🔧 **Automatisation avec Excel, VBA, et DAX**
 - 📑 **Rédaction de rapports et guides d’utilisation**
 - 📊 **Conception de tableaux de bord interactifs**
