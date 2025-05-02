@@ -1,4 +1,4 @@
-# Expliquer ou predir une variable quanti a partir de plusieur facteurs
+# Expliquer ou predir une variable quantitative a partir de plusieur variables quantitative ou qualitative
 ---
 - **Travaux réalisés** :
   - 🔎 Recherche de données
@@ -9,7 +9,7 @@
   - 📊 Validation croisé ( ascendente, descendante, ascendante-descendante )
   - 📉 Prédiction
   - 🎤 Restitution orale du projet
-
+---
 ### [Len vers le rapport](file:///C:/Users/V046180/Downloads/Exp_vie2.html#4_Analyse_des_Liens_entre_Variables)
-
+---
 ### [Retour au portfolio principal](../README.md)
