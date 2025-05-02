@@ -17,8 +17,9 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
   - 🧹 Nettoyage des données
   - 📊 Analyse univariée
   - 📊 Analyse bivarier
-  - 📑 Creation et validation des Model predictif
-  - 📊 Validation 
+  - 📑 Creation et validation des Models predictif
+  - 📊 Validation croisé ( ascendente, descendante, ascendante-descendante )
+  - 📉 Prédiction
   - 🎤 Restitution orale du projet
 
 **Voir plus** : [Détails du projet](SAE401/README.md)
