@@ -12,15 +12,14 @@ Je vous invite à explorer mes projets, où vous découvrirez les compétences q
 ### [Prediction de l'esperance de vie dans chaque pays du monde](SAE401/README.md)
 
 
-- **Compétences développées** :
-  - 🔎 Recherche de données
+- **Compétences développées** : Traitement analyse et valorisation des données
   - 🧹 Nettoyage des données
   - 📊 Analyse univariée
   - 📊 Analyse bivarier
   - 📑 Creation et validation des Models predictif
   - 📊 Validation croisé ( ascendente, descendante, ascendante-descendante )
   - 📉 Prédiction
-  - 🎤 Restitution orale du projet
+  - 🎤 Restitution orale
 
 **Voir plus** : [Détails du projet](SAE401/README.md)
 
@@ -75,9 +74,9 @@ Un projet d'analyse de données d'accidents de la route avec Power BI.
 ### [Intégration des données dans un datawarehouse](SAE303/README.md)
 Un projet permettant d'extraire des information sur des données codé au format txt grace au langage de programmation de Python.
 
-- **Compétences développées** :
-  - 📥Extraction de données (Python)
-  - 📊 Création de graphique et tableau (Excel)
+- **Compétences développées** : Traitement de données
+  - 📥Extraction de données (Talend)
+  - 📊 Traitement des données (Talend Access)
 
 **Voir plus** : [Détails du projet](SAE303/README.md)
 
@@ -85,9 +84,9 @@ Un projet permettant d'extraire des information sur des données codé au format
 ### [Ecriture et lecture d'un fichier de données](SAE102/README.md)
 Un projet permettant d'extraire des information sur des données codé au format txt grace au langage de programmation de Python.
 
-- **Compétences développées** :
-  - 📥Extraction de données (Talend)
-  - 📊 Traitement des données (Talend Access)
+- **Compétences développées** : Traitement et Analyde de données
+  - 📥Extraction de données (Python)
+  - 📊 Création de graphique et tableau (Excel)
 
 **Voir plus** : [Détails du projet](SAE102/README.md)
 
