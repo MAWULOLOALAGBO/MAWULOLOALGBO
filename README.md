@@ -21,7 +21,9 @@ J’ai conçu une application interactive sous Shiny qui permet d’effectuer un
 # Expériences professionnelles
 
 **Mars - Juin 2024** : Stagiaire en Analyse et traitement de données à la caisse Régionale du Crédit Agricole du Morbihan : Optimisation de suivie d'activité et création de tableau de bord de pilotage
+
 **Depuis Octobre 2023** : Moniteur étudiant à la bibliothèque de l'IUT de Vannes
+
 **Juin - Août 2024** : Cuisinier la brasserie du Gambétta à Vannes
 
 # Compétences linguistiques
@@ -33,7 +35,6 @@ Sport : Passionné de Footbal (9 ans de pratique)
 J’aime aussi les randonnées et les activités en plein air
 
 # Accès à mon portfolio en ligne
-
 👉 Consulter ma page web
 
 # Contact
